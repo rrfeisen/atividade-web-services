@@ -1,6 +1,6 @@
 # Atividade Web Services — REST (JSON) e SOAP (XML)
 
-**Aluno:** Roberto Ramos
+**Alunos:** João Vitor Alves Medina e Roberto Ramos Ferreira
 **Disciplina:** Sistemas Distribuídos
 
 Este repositório contém duas aplicações independentes em **Java** (sem bibliotecas externas, só a JDK ≥ 11; testado com JDK 25):
